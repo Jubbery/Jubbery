@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jubbery
+- 👋 Hi, I’m Jack
 - 👀 I’m interested in Web Development, Deep Learning AI, and Quantum Computing.
-- 🌱 I’m currently A senior at the University of South Florida and have more to learn! I am proficient in React, TypeScript, JavaScript, and OpenLayers.
+- 🌱 I’m currently a R&D Engineer at CAE, a senior at the University of South Florida, and have mush more to learn! I am proficient in React, Angular, TypeScript, JavaScript.
 - 💞️ I’m looking to collaborate on websites, AI, and Quantum Computing!
 - 📫 Reach me from my Linkden: www.linkedin.com/in/jackrobertsusf
 
