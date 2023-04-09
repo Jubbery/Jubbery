@@ -17,7 +17,7 @@ Certifications: JavaScript, APIs, HTML, CSS, Bootstrap
 
 ## 💼 Experience
 **CAE USA, Tampa, FL** \
-_R&D Software Engineer Co-Op (30 hrs/wk), Jun 2022 - Present_
+_R&D Software Engineer Co-Op, Jun 2022 - Present_
 - Collaborated with multiple teams of engineers to design and build dynamic, cutting-edge front-end web applications for research and development projects, significantly improving user experience, client satisfaction, and contract acquisition
 - Spearheaded cross-platform integrations and network routing optimizations, resulting in increased efficiency and smoother data transfer across platforms
 - Implemented Docker containers to streamline deployment processes and improve application scalability, leading to reduced development time and enhanced maintainability
