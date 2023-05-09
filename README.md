@@ -28,11 +28,14 @@ _R&D Software Engineer Co-Op, Jun 2022 - Present_
 **Independent Study Project: Three.js React App, Spring 2023**
 - Engineered an interactive web app, demonstrating my journey to learning Three.js and Cannon.js
 - Crafted the visual interface with React.js/MUI and harnessed the power of Three.js and Cannon.js for a handful of physics-based demos
+- [three.js-playground](https://github.com/Jubbery/three.js-playground/)
+
+_Technologies:_ React.js, CSS/MUI, Node.js, Three.js, Cannon.js
 
 **FreshStart - Hackathon Project (HackaBull 2022, 3rd Place Winner), Spring 2023** \
-[Devpost Submission](https://devpost.com/software/freshstart)
-
-FreshStart is a webtool developed by me and my team that assists individuals facing challenges in finding stable employment and housing in lower cost of living areas. Our collaborative efforts and technical skills resulted in a tool that provides personalized job recommendations and cost comparisons between users' current cities and prospective locations.
+- FreshStart is a webtool developed by me and my team that assists individuals facing challenges in finding stable employment and housing in lower cost of living areas. 
+- Our collaborative efforts and technical skills resulted in a tool that provides personalized job recommendations and cost comparisons between users' current cities and prospective locations.
+- [Devpost Submission](https://devpost.com/software/freshstart)
 
 _Technologies:_ React.js, SCSS/MUI, Express.js, Node.js, CockroachDB, various APIs
 
