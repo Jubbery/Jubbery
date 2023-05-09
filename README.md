@@ -25,9 +25,9 @@ _R&D Software Engineer Co-Op, Jun 2022 - Present_
 
 
 ## 🏆 Projects
-**Independent Study Project: SYMAI Web Application, Spring 2023**
-- Engineered an interactive web app, revolutionizing personal and educational communication with AI-powered speech-to-speech technology
-- Crafted the visual interface with React.ts and harnessed the power of NLP, OpenAI's GPT-3.5, and Whisper for the back-end
+**Independent Study Project: Three.js React App, Spring 2023**
+- Engineered an interactive web app, demonstrating my journey to learning Three.js and Cannon.js
+- Crafted the visual interface with React.js/MUI and harnessed the power of Three.js and Cannon.js for a handful of physics-based demos
 
 **FreshStart - Hackathon Project (HackaBull 2022, 3rd Place Winner), Spring 2023** \
 [Devpost Submission](https://devpost.com/software/freshstart)
