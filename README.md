@@ -9,7 +9,7 @@ Overall GPA: 3.59/4.0 | Major GPA: 3.5/4.0
 
 ## 🚀 Skills
 Languages: HTML 5, CSS, SASS, JavaScript, TypeScript, C/C++, Rust, Python 3.9, Java \
-Frameworks & Libraries: React, Angular, Ember, Vue, TensorFlow, GPT-3, Mantine-UI, OpenLayers, jQuery, JSX, npm, Node.js \
+Frameworks & Libraries: React, Angular, Ember, AJAX, Vue, TensorFlow, GPT-3, Mantine-UI, OpenLayers, jQuery, JSX, npm, Node.js \
 Databases: SQL, PostgreSQL \
 Tools: VS, Docker, Jira, GitHub, Figma, Selenium \
 Methodologies: Agile, SAFe \
@@ -26,8 +26,8 @@ _R&D Software Engineer Co-Op, Jun 2022 - Present_
 
 ## 🏆 Projects
 **Independent Study Project: Three.js React App, Spring 2023**
-- Engineered an interactive web app, demonstrating my journey to learning Three.js and Cannon.js
-- Crafted the visual interface with React.js/MUI and harnessed the power of Three.js and Cannon.js for a handful of physics-based demos
+- Engineered an interactive web app, demonstrating my journey to learning Three.js and Cannon.js.
+- Crafted the visual interface with React.js/MUI and harnessed the power of Three.js and Cannon.js for a handful of physics-based demos.
 - [three.js-playground](https://github.com/Jubbery/three.js-playground/)
 
 _Technologies:_ React.js, CSS/MUI, Node.js, Three.js, Cannon.js
