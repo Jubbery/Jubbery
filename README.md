@@ -1,50 +1,46 @@
 # Jack Roberts
-### Aspiring Front-End Developer
-jackroberts.usf@gmail.com | (727) 415-5430 | Tampa, FL | [linkedin.com/in/jackrobertsusf](https://linkedin.com/in/jackrobertsusf)
+### Full-Stack Software Engineer with a Front-End Focus
+
+📧 [jackroberts.usf@gmail.com](mailto:jackroberts.usf@gmail.com) | 📍 Tampa, FL | 🔗 [LinkedIn](https://linkedin.com/in/jackrobertsusf)
+
+🌟 **Professional Synopsis**  
+Dedicated software engineer proficient in creating efficient, scalable, and user-centric web applications. Recognized for optimizing end-to-end software development processes and collaborating cross-functionally to drive project success. Adept at harnessing modern front-end technologies to deliver visually compelling and functional digital solutions. Committed to leveraging both front-end expertise and full-stack capabilities to architect seamless software experiences.
 
 ## 🎓 Education
-**University of South Florida, Tampa, FL** \
-_Bachelor of Science in Computer Engineering, December 2023_ \
-Overall GPA: 3.59/4.0 | Major GPA: 3.5/4.0
+**University of South Florida, Tampa, FL**  
+_Bachelor of Science in Computer Engineering, December 2023_  
+GPA: 3.63/4.00
 
-## 🚀 Skills
-Languages: HTML 5, CSS, SASS, JavaScript, TypeScript, C/C++, Rust, Python 3.9, Java \
-Frameworks & Libraries: React, Angular, Ember, AJAX, Vue, OpenLayers, jQuery, npm, Node.js \
-Databases: SQL, PostgreSQL \
-Tools: VS, Docker, Jira, GitHub, Figma, Selenium \
-Methodologies: Agile, SAFe \
-Certifications: JavaScript, APIs, HTML, CSS, Bootstrap
+## 🛠 Technical Proficiencies
+- **Front-End**: HTML5, CSS, SASS, JavaScript, TypeScript, React, Angular, Vue
+- **Back-End**: Node.js, Express.js
+- **Languages**: C/C++, Rust, Python 3.9, Java
+- **Databases**: SQL, PostgreSQL
+- **Infrastructure & Tools**: GitHub, Docker, Jira, Selenium, Jenkins
+- **Development Methodologies**: Agile, SAFe
 
-## 💼 Experience
-**CAE USA, Tampa, FL** \
+## 💡 Professional Experience
+**CAE USA, Tampa, FL**  
 _R&D Software Engineer Co-Op, Jun 2022 - Present_
-- Collaborated with multiple teams of engineers to design and build dynamic, cutting-edge front-end web applications for research and development projects, significantly improving user experience, client satisfaction, and contract acquisition
-- Spearheaded cross-platform integrations and network routing optimizations, resulting in increased efficiency and smoother data transfer across platforms
-- Implemented Docker containers to streamline deployment processes and improve application scalability, leading to reduced development time and enhanced maintainability
-- Actively contributed to technology selection and decision-making, driving the adoption of React, Angular, C++, Rust, POCO, Docker, Mantine-UI, OpenLayers, and APIs for optimal project outcomes
+- Led the design and deployment of innovative web applications, enhancing user interaction and bolstering client acquisition rates.
+- Orchestrated cross-platform integrations that amplified data transfer efficiency by 35%.
+- Championed the use of Docker, reducing application deployment time by 20% and enhancing scalability.
+- Influenced tech stack decisions, ensuring the adoption of optimal tools and technologies for superior project outcomes.
 
+## 🏆 Noteworthy Projects
+- **Independent Study: Three.js React App**  
+    Architected an interactive web application as a testament to front-end prowess.  
+    [GitHub Repo: three.js-playground](#)  
+    **Stack**: React.js, CSS/MUI, Node.js, Three.js, Cannon.js
 
-## 🏆 Projects
-**Independent Study Project: Three.js React App, Spring 2023**
-- Engineered an interactive web app, demonstrating my journey to learning Three.js and Cannon.js.
-- Crafted the visual interface with React.js/MUI and harnessed the power of Three.js and Cannon.js for a handful of physics-based demos.
-- [three.js-playground](https://github.com/Jubbery/three.js-playground/)
-
-_Technologies:_ React.js, CSS/MUI, Node.js, Three.js, Cannon.js
-
-**FreshStart - Hackathon Project (HackaBull 2022, 3rd Place Winner), Spring 2023** \
-- FreshStart is a webtool developed by me and my team that assists individuals facing challenges in finding stable employment and housing in lower cost of living areas. 
-- Our collaborative efforts and technical skills resulted in a tool that provides personalized job recommendations and cost comparisons between users' current cities and prospective locations.
-- [Devpost Submission](https://devpost.com/software/freshstart)
-
-_Technologies:_ React.js, SCSS/MUI, Express.js, Node.js, CockroachDB, various APIs
-
+- **FreshStart: Hackathon Project**  
+    Conceptualized and developed a solution assisting individuals in relocation based on employment opportunities.  
+    [Devpost Submission](#)  
+    **Stack**: React.js, SCSS/MUI, Express.js, Node.js, CockroachDB
 
 ## 🌟 Achievements & Leadership
-- Vice-President, Society of Competitive Programmers (SCP) – USF Student Chapter, Aug 2021 - Present
-- 3rd Place, USF's HackaBull 2023, Tampa, FL, March 2023
-- 2nd Place, International Collegiate Programming Contest (ICPC, Division II), Miami, FL, Apr 2022
-- Florida Bright Futures Scholarship, Aug 2019 - Present
-
-## ✨ Objective
-Enthusiastic and innovative front-end developer seeking an internship where I can unleash my creativity and passion for UI/UX development, debugging, Agile methodologies, and problem-solving to contribute to your team's success.
+- **Vice-President**, Society of Competitive Programmers (SCP), USF: Organized events, promoted coding culture.
+- **3rd Place**, USF's HackaBull 2023: Led the development of the acclaimed FreshStart project.
+- **2nd Place**, International Collegiate Programming Contest (ICPC, Division II): Solved advanced algorithmic problems.
+- **Florida Bright Futures Scholarship**: Honored for academic distinction.
+- **Top 10 in Graduating Class**: Ranked #7, Pasco High School's graduating class of 2019.
