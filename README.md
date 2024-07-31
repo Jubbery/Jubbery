@@ -18,7 +18,7 @@ GPA: N/A -> Starting Spring 2024
 
 ## 🛠 Technical Proficiencies
 - **Front-End**: HTML5, CSS, SASS, JavaScript, TypeScript, React, Angular, Vue
-- **Back-End**: Node.js, Express.js, Python, C/C++, Rust, Java
+- **Back-End**: Node.js, Express.js, Python
 - **Databases**: SQL, PostgreSQL
 - **Infrastructure & Tools**: GitHub, Docker, Jira, Selenium, Jenkins
 - **Development Methodologies**: Agile, SAFe
