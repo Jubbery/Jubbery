@@ -24,11 +24,11 @@ GPA: N/A -> Starting Spring 2024
 - **Development Methodologies**: Agile, SAFe
 
 ## 💡 Professional Experience
-**The Founder Series, Remote**  
-_Software Engineer Intern, Sept 2024 - Present_
-- Contributing founding infrastructure at a young Yale startup.
-- Building generational AI models that connect users to a rich network of professionals.
-- LLMs, TTS, STT, Firebase, React, and Node.
+**Series, Remote**  
+_Co-founder and CTO, Sept 2024 - Present_
+- Building founding infrastructure at a young Yale startup.
+- Forming generational AI models that connect users to a rich network of professionals.
+- LLMs, TTS, STT, GCP, Firebase, React, Next.js and Node.
 
 **CAE USA, Tampa, FL**  
 _R&D Software Engineer Co-Op, Jun 2022 - Aug 2024_
