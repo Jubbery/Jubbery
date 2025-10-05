@@ -1,7 +1,7 @@
 # Jack Roberts
 ### Full-Stack Software Engineer
 
-📧 [jackroberts.usf@gmail.com](mailto:jackroberts.usf@gmail.com) | 📍 Tampa, FL | 🔗 [LinkedIn](https://linkedin.com/in/jackrobertsusf) | [Portfolio Website](https://jubbery.github.io/portfolio2024/)
+📧 [jackroberts.usf@gmail.com](mailto:jackroberts.usf@gmail.com) | 📍 Denver, CO | 🔗 [LinkedIn](https://linkedin.com/in/jackrobertsusf) | [Portfolio Website](https://jubbery.github.io/portfolio2024/)
 
 🌟 **Professional Synopsis**  
 Dedicated software engineer proficient in creating efficient, scalable, and user-centric web applications. Recognized for optimizing end-to-end software development processes and collaborating cross-functionally to drive project success. Adept at harnessing modern front-end technologies to deliver visually compelling and functional digital solutions. Committed to leveraging both front-end expertise and full-stack capabilities to architect seamless software experiences.
