@@ -25,7 +25,7 @@ GPA: N/A -> Starting Spring 2024
 
 ## 💡 Professional Experience
 **Series, Remote**  
-_Co-founder and CTO, Sept 2024 - Present_
+_Co-founder and CTO, Sept 2024 - Sept 2025
 - Building founding infrastructure at a young Yale startup.
 - Forming generational AI models that connect users to a rich network of professionals.
 - LLMs, TTS, STT, GCP, Firebase, React, Next.js and Node.
