@@ -11,11 +11,6 @@ Dedicated software engineer proficient in creating efficient, scalable, and user
 _Bachelor of Science in Computer Science, December 2023_  
 GPA: 3.63/4.00
 
-**Georgia Institute of Technology, Atlanta, GA**  
-_Master of Science in Computer Science, December 2023_  
-_Specialization: Machine Learning_
-GPA: N/A -> Starting Spring 2024
-
 ## 🛠 Technical Proficiencies
 - **Front-End**: HTML5, CSS, SASS, JavaScript, TypeScript, React, Angular, Vue
 - **Back-End**: Node.js, Express.js, Python
